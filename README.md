@@ -11,9 +11,24 @@ Preliminary results demonstrate that TinyML models can achieve similar performan
 
 
 # AI Tongue Doctor App (version 1)
-![GITHUB_BINARY_v1](https://user-images.githubusercontent.com/86548417/123553927-6bda7300-d786-11eb-96af-b9a89302ba65.jpg)
+A binary classification app capable of detecting BENIGN & MALIGNANT oral tongue lesions.
 
+![GITHUB_BINARY_v1](https://user-images.githubusercontent.com/86548417/123553927-6bda7300-d786-11eb-96af-b9a89302ba65.jpg)
+LINK: 
 # AI Tongue Doctor App (version 2)
+A multiclass classification app capable of detecting 9 types of oral tongue lesions.
+1. Oral Hairy Leukoplakia (OHL)
+2. Squamous Cell Carcinoma (SCC)
+3. Black Hairy Tongue (BHT)
+4. Fissure Tongue (FT)
+5. Geographic Tongue (GT)
+6. Oral Candidiasis (OC)
+7. Pigmented Fungiform Papilae (PFP)
+8. Strawberry Tongue (ST)
+9. Erythroplakia (ERYTH)
+
+![GITHUB_MULTI_v2](https://user-images.githubusercontent.com/86590219/123592443-e42c4d00-d7f5-11eb-8e7c-5fa98ee27359.jpg)
+LINK: coming soon
 
 
 # Contact
