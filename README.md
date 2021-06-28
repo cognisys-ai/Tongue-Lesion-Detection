@@ -1,4 +1,4 @@
-![Business_logo](https://user-images.githubusercontent.com/86590219/123595579-bf39d900-d7f9-11eb-922d-8d47a85f4261.png)
+![COGNISYS Logo](https://user-images.githubusercontent.com/86590219/123610231-15fadf00-d809-11eb-929b-b49c8047a049.png)
 ![](https://komarev.com/ghpvc/?username=cognisys-ai&color=green)
 
 # Detecting Oral Tongue Lesions using TinyML on Android Platform
