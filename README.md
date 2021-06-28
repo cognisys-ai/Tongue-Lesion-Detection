@@ -44,3 +44,5 @@ Saudi Arabia
 
 Email : cognisys@outlook.com
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mzmshamim/)
+
