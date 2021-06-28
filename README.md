@@ -19,7 +19,7 @@ A binary classification app capable of detecting BENIGN & MALIGNANT oral tongue 
 ![GITHUB_BINARY_v1](https://user-images.githubusercontent.com/86548417/123553927-6bda7300-d786-11eb-96af-b9a89302ba65.jpg)
 LINK: coming soon
 # AI Tongue Doctor App (version 2)
-A multiclass classification app capable of detecting 9 types of oral tongue lesions.
+A multiclass classification app capable of detecting 9 types of oral tongue lesions in real-time.
 1. Oral Hairy Leukoplakia (OHL)
 2. Squamous Cell Carcinoma (SCC)
 3. Black Hairy Tongue (BHT)
