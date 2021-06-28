@@ -10,9 +10,10 @@ The proposed work exemplifies the utilization of TinyML on embedded devices in h
 Preliminary results demonstrate that TinyML models can achieve similar performance to traditional ML models for screening oral tongue lesions.Such models can be leveraged as a point of care diagnostic tool via low power embedded devices or on mobile platforms for remote healthcare clinics for detecting early signs of OCC in patients where access to specialized medical resources is limited.
 
 
-# AI Tongue Doctor v1 App
+# AI Tongue Doctor App (version 1)
 ![GITHUB_BINARY_v1](https://user-images.githubusercontent.com/86548417/123553927-6bda7300-d786-11eb-96af-b9a89302ba65.jpg)
 
+# AI Tongue Doctor App (version 2)
 
 
 # Contact
