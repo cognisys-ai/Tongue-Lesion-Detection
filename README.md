@@ -37,11 +37,8 @@ LINK: coming soon
 # Contact
 
 Dr. Mohammed Zubair PhD (University of Dundee, U.K.)
-Founder (COGNISYS - AI Solutions & Services),
-Associate Professor / Consultant,
-Centre for Artificial Intelligence,
-King Khalid University,
-Saudi Arabia
+
+Founder (COGNISYS - AI Solutions & Services)
 
 Email : cognisys@outlook.com
 
